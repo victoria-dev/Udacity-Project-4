@@ -1,9 +1,9 @@
-The live version of optimized site is here http://victoria-front-enddev.github.io/UP4-Optimization/
-All the pages http://victoria-front-enddev.github.io/UP4-Optimization/,
-http://victoria-front-enddev.github.io/UP4-Optimization/project-2048.html,
-http://victoria-front-enddev.github.io/UP4-Optimization/project-webperf.html,
-http://victoria-front-enddev.github.io/UP4-Optimization/project-mobile.html,
-http://victoria-front-enddev.github.io/UP4-Optimization/views/pizza.html
+The live version of optimized site is here http://victoria-front-enddev.github.io/Udacity-Project-4/
+All the pages http://victoria-front-enddev.github.io/Udacity-Project-4/,
+http://victoria-front-enddev.github.io/Udacity-Project-4/project-2048.html,
+http://victoria-front-enddev.github.io/Udacity-Project-4/project-webperf.html,
+http://victoria-front-enddev.github.io/Udacity-Project-4/project-mobile.html,
+http://victoria-front-enddev.github.io/Udacity-Project-4/views/pizza.html
 are optimited for 90 and higher Google pagespped score (both desctop and mobile)
 The optimization is achieved due to inlining small js files, using asynchronous loading for those js files that are not needed for rendering, inlining css, using @media queries and using @font-face for quicker loading and optimizing images.
 For Pizza page js file is optimiyed to make animation faster and fps rate 60. The minified version of js file is used live version and the full version with all comments is avaliable on github.
