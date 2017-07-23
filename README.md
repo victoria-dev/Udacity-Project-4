@@ -1,4 +1,4 @@
-The live version of optimized site is here http://victoria-front-enddev.github.io/Udacity-Project-4/
+The live version of optimized site is here http://victoria-dev.github.io/Udacity-Project-4/
 All the pages http://victoria-front-enddev.github.io/Udacity-Project-4/,
 http://victoria-front-enddev.github.io/Udacity-Project-4/project-2048.html,
 http://victoria-front-enddev.github.io/Udacity-Project-4/project-webperf.html,
